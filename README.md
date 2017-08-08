@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/abhisheksliam/angular-1-4-directive-app.svg?token=HRKThho8tF94MY1DbEuU&branch=master)](https://travis-ci.com/abhisheksliam/angular-1-4-directive-app)
+
 # Seed for AngularJS apps
 
 This project is an application skeleton for a typical [AngularJS][angularjs] web app. You can use it
