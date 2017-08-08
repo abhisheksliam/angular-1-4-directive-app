@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 60.0.3112 (Windows 7 0.0.0)" package="unit" timestamp="2017-08-08T07:14:54" id="0" hostname="AbhishekK" tests="5" errors="0" failures="0" time="0.044">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.90 Safari/537.36"/>
+  </properties>
+  <testcase name="myApp.version module interpolate filter should replace VERSION" time="0.02" classname="Chrome_60_0_3112_(Windows_7_0_0_0).unit.myApp.version module"/>
+  <testcase name="myApp.version module app-version directive should print current version" time="0.017" classname="Chrome_60_0_3112_(Windows_7_0_0_0).unit.myApp.version module"/>
+  <testcase name="myApp.version module version service should return current version" time="0.001" classname="Chrome_60_0_3112_(Windows_7_0_0_0).unit.myApp.version module"/>
+  <testcase name="myApp.view1 module view1 controller should ...." time="0.005" classname="Chrome_60_0_3112_(Windows_7_0_0_0).unit.myApp.view1 module"/>
+  <testcase name="myApp.view2 module view2 controller should ...." time="0.001" classname="Chrome_60_0_3112_(Windows_7_0_0_0).unit.myApp.view2 module"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
