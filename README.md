@@ -112,8 +112,6 @@ predefined script to do this:
 npm run test-single-run
 ```
 
-
-<a name="e2e-testing"></a>
 ### Running End-to-End Tests
 
 The `angular-1-4-directive-app` app comes with end-to-end tests, again written in [Jasmine][jasmine]. These tests
